@@ -25,10 +25,16 @@ The timer is the best for displaying on a demonstrative screen.
 Test timer has various settings that allow users to customize their own timers. 
 
 
-- Color Settings - Every text (text, timer, and background) can be displayed in any colours you want. 
-- Sizes - The sizes of texts and timer can be modified. 
-- 30 seconds countdown - The timer can remind users when only 30 seconds left. 
-- Plans - Users can create different "plans" to save the timer.
+- [x] Color Settings - Every text (text, timer, and background) can be displayed in any colours you want. 
+- [x] Sizes - The sizes of texts and timer can be modified. 
+- [x] 30 seconds countdown - The timer can remind users when only 30 seconds left. 
+- [x] Plans - Users can create different "plans" to save the timer.
+- [ ] Users can pause the timer any time.
+- [ ] Users can stop the timer any time.
+- [x] Timed to start timer.
+- [ ] Click to start timer.
+- [ ] Run in background.
+- [x] Windows Taskbar Progress
 
 ![image](https://github.com/BradleyBao/test-timer/assets/80588549/844ed9e5-15ac-4d68-af4a-c3ada6e11776)
 
