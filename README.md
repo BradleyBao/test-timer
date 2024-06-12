@@ -1,6 +1,6 @@
 # Test Timer
 <div>
-  <a href="https://github.com/BradleyBao/Painto/releases/latest">
+  <a href="https://github.com/BradleyBao/test-timer/releases/latest">
     <img src="https://img.shields.io/github/v/tag/BradleyBao/test-timer?label=ver&style=for-the-badge">
   </a>
 </div> 
